@@ -10,7 +10,7 @@ Though, I still published this mod, because there's also a mod about making the 
 
 To build this model, you will need:
 Fasteners:
-- M3x16 SHCS --- x4
+- M3x16 HHCS --- x4
 - M5x30 BHCS --- x12
 - M3 Wing Nut --- x4
 
