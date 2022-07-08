@@ -12,14 +12,14 @@ Though, I still published this mod, because there's also a mod about making the 
 
 To build this model, you will need:
 Fasteners:
-	M3x16 SHCS --- x4
-	M5x30 BHCS --- x12
-	M3 Wing Nut --- x4
+- M3x16 SHCS --- x4
+- M5x30 BHCS --- x12
+- M3 Wing Nut --- x4
 
 Motion:
-	GT2 20T Idler --- x4
+- GT2 20T Idler --- x4
 
 3D Printer Parts：
-	z_belt_holder_flush_a --- x2
-	z_belt_holder_flush_b --- x2
-	z-belt_tensioner_flush --- x4
+- z_belt_holder_flush_a --- x2
+- z_belt_holder_flush_b --- x2
+- z-belt_tensioner_flush --- x4
