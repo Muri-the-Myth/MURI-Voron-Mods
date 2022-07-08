@@ -5,8 +5,8 @@ The 3DP parts are redesigned so that both the m3x16 screw the wing nuts can fit 
 I end up recognizing that this is a rather stupid idea because, to adjust the tension, you will have to remove the top panel, which actually adds one's workload.
 Though, I still published this mod, because there's also a mod about making the removal of the top panel easier, and they can potentially be used in combo (see https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Printopal/Magnetic_top_panel).
 
-![Rendered view of the mod](https://github.com/Muri-the-Myth/MURI-Voron-Mods/blob/main/FLUSH%20Belt%20Tensioner/Images/Rendered%20View%2001.JPG)
-![Section view of the mod](https://github.com/Muri-the-Myth/MURI-Voron-Mods/blob/main/FLUSH%20Belt%20Tensioner/Images/Rendered%20View%2002.JPG)
+![Rendered view of the mod](https://github.com/Muri-the-Myth/MURI-Voron-Mods/blob/main/FLUSH%20Belt%20Tensioner/Images/RenderedView_01.JPG)
+![Section view of the mod](https://github.com/Muri-the-Myth/MURI-Voron-Mods/blob/main/FLUSH%20Belt%20Tensioner/Images/RenderedView_02.JPG)
 
 To build this model, you will need:
 Fasteners:
