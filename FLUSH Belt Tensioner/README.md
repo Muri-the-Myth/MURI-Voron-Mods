@@ -1,6 +1,4 @@
 # FLUSH z-belt tensioner
-Mod designed to improve the quality of life
-
 Adjusting the z-belt tension has cause me headache (not literaly), because I have to screw from a very wierd angle. Thus, I decided to make my life (and hopefully yours) easier by incorporating wing nuts which are easily adjustable.
 The 3DP parts are redesigned so that both the m3x16 screw the wing nuts can fit in and neither of them will bump into the top panel.
 
